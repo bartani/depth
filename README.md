@@ -1,1 +1,1 @@
-# depth
+# depth estimation network
